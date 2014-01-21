@@ -2,7 +2,7 @@ package b;
 
 public class Other {
 
-	public String member;
+	public static String member;
 	
 	public static String stMember;
 	
